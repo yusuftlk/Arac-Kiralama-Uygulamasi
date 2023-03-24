@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\BlaCar\BlaCar\bin\Debug\BlaCar.exe
+C:\Users\user\Desktop\BlaCar\BlaCar\bin\Debug\BlaCar.pdb
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.Properties.Resources.resources
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.exe
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.pdb
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.frmAna.resources
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.frmGiris.resources
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.frmAracKaydet.resources
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.frmIlanVer.resources
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.frmYolculukGor.resources
+C:\Users\user\Desktop\BlaCar\BlaCar\obj\Debug\BlaCar.frmYolculuklarim.resources
